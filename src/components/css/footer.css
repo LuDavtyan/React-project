@@ -1,0 +1,63 @@
+.container{
+    max-width: 1140px;
+    width: 100%;
+    height: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+footer{
+    width: 100%;
+    height: 117px;
+}
+
+
+.app{
+ 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 121px;
+    
+}
+
+.app p{
+    width: 100%;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000;
+    margin-right: 50px;
+}
+
+.img{
+    width: 156px;
+    height: 72px;
+
+}
+
+.help{
+    width: 345px;
+    height: 92px;
+    display: flex;
+}
+
+.info{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 31px auto;
+    color: #000000;
+    
+
+
+}
+.info p {
+    width: 300px;
+    font-size: 16px;
+}

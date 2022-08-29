@@ -1,0 +1,95 @@
+.pupUp{
+    height: 316px;
+    width: 556px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: -50px;
+    left: 30%;
+    margin: 307px auto;
+
+}
+
+.regPupUp{
+  
+    height: 371px;
+    width: 556px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: -50px;
+    left: 30%;
+    margin: 307px auto;
+
+}
+.regPupUp h2 {
+   
+    font-family: Oswald;
+    font-size: 28px;
+    font-weight: 600;
+    color: #000000;
+}
+
+
+.pupUp-inner{
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.pupUp h2 {
+   
+    font-family: Oswald;
+    font-size: 23px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.inp{
+    height: 45px;
+    width: 496px;
+    border-radius: 5px;
+    color: #B0B0B0;
+    border: 1px solid #B0B0B0;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.log>button{
+    background-color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+    
+}
+
+.log{
+    display: flex;
+    justify-content: end;
+    margin-left: 400px;
+}
+
+
+.btnLog{
+    height: 45px;
+    width: 165px;
+    border-radius: 5px;
+    margin-top: 30px;
+    background-color: #007163;
+    border: 1px solid #007163;
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
